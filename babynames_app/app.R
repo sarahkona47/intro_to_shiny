@@ -1,6 +1,6 @@
 library(shiny)
 library(tidyverse)
-library(babynames)
+library(babynames)  
 
 ui <- fluidPage(textInput(inputId = "name", 
                           label = "Name:", 
