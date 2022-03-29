@@ -1,0 +1,13 @@
+name: babynames_app
+title: babynames_app
+username:
+account: sarahkona47
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5965108
+bundleId: 5741794
+url: https://sarahkona47.shinyapps.io/babynames_app/
+when: 1648581760.53983
+lastSyncTime: 1648581760.53985
+asMultiple: FALSE
+asStatic: FALSE

@@ -3,6 +3,9 @@
 # Beware! ... This alone will be a REALLY boring app. A blank page :(
 
 library(shiny)
-ui <- fluidPage()
+library(tidyverse)
+library(babynames)
+
+ui <- fluidPage("Sarah Choi")
 server <- function(input, output) {}
 shinyApp(ui = ui, server = server)
